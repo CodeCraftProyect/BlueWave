@@ -1,12 +1,8 @@
 [
   {
-    "name": "Canal Uno",
-    "url": "https://servidor.com/canal1.m3u8",
-    "logo": "https://servidor.com/logos/canal1.png"
-  },
-  {
-    "name": "Canal Dos",
-    "url": "https://servidor.com/canal2.m3u8",
-    "logo": "https://servidor.com/logos/canal2.png"
+    "name": "BlueWave TV",
+    "logo": "https://tudominio.com/logo.png",
+    "url": "https://servidor.com/stream.m3u8",
+    "category": "TV"
   }
 ]
